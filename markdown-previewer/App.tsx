@@ -3,7 +3,6 @@ import Header from './src/components/Header';
 import MarkdownGuide from './src/components/MarkdownGuide';
 import MarkdownInput from './src/components/MarkdownInput';
 import MarkdownOutput from './src/components/MarkdownOutput';
-import  { ChangeEvent } from 'react';
 
 
 const App = () => {
