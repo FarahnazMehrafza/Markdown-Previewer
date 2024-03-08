@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "styled-components": "^6.1.8"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "css-loader": "^6.10.0",
+    "style-loader": "^3.3.4"
+  }
+}
